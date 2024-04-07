@@ -1,4 +1,4 @@
-title: "Mini-PC"
+title: "Coffee-Making"
 email: rengtech2020@gmail.com
 timezone: UTC
 baseurl: ""
@@ -20,26 +20,26 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: G-TK65DCSTKN
+ganalytics: G-BRLCTG9Z94
 
 # Authors
 authors:
   sal:
-    name: Mini-PC
-    display_name: Mini-PC
+    name: Coffee-Making
+    display_name: Coffee-Making
     avatar: 'assets/images/Rengtech.png'
     email: wowthemesnet@gmail.com
     web: https://rengtech.github.io
     twitter: https://twitter.com/Reengstuff
-    description: "Mini-PC"
+    description: "Coffee-Making"
   john:
-    name: Rengtech
-    display_name: Rengtech
+    name: Coffee-Making
+    display_name: Coffee-Making
     avatar: 'assets/images/Rengtech.png'
     email: wowthemesnet@gmail.com
     web: https://rengtech.github.io
     twitter: https://twitter.com/Reengstuff
-    description: "Mini-PC"
+    description: "Coffee-Making"
 
 # Social
 social:
