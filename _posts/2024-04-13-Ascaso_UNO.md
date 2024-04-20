@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Discover the Ascaso Uno Espresso Machine: A Complete Espresso Experience"
-author: Mini-PC
-categories: [ Mini pc]
+author: Espresso
+categories: [ Espresso]
 image: assets/images/Ascaso_UNO.png
 ---
 
