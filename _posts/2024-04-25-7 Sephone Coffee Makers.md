@@ -3,7 +3,7 @@ layout: post
 title:  "Discover the Art of Home Brewing in Style: The Top 7 Sephone Coffee Makers"
 author: Espresso
 categories: [ Espresso]
-image: assets/images/Bonavita1900.png
+image: assets/images/Hario_Moka.png
 ---
 
 In the world of coffee, every cup tells a story. Are you ready to explore the fascinating universe of Sephone coffee makers? Join us on this journey as we unveil the 7 best Sephone coffee makers that will turn your kitchen into a paradise for coffee enthusiasts. Let's dive in!
